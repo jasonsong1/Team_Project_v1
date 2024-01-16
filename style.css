@@ -1,0 +1,114 @@
+.navFirstHeading{
+   background: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+
+
+}
+
+body{
+    margin: 0px;
+}
+
+.logo{
+    width: 80px;
+    position: relative;
+    bottom:10px;
+    left: 20px;
+}
+
+
+.navflex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navMenu{
+    display: flex; 
+    
+}
+
+
+
+.checkoutmenu{
+    display: flex;
+    
+}
+
+.navMenu div{
+    margin-left: 40px;
+}
+
+.checkoutmenu div{
+    margin-right: 20px;
+}
+
+.glassposition{
+    position: relative;
+    right: 20px;
+}
+
+.mainOption{
+    display: flex;
+}
+
+.mainOption img{
+    width: 420px;
+    margin: 20px 0px;
+}
+
+.mainFont{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.mainOption div{
+    cursor: pointer;
+    margin:0px 23px;
+    font-weight: 550;
+}
+
+.cardMain{
+  
+    width: 100vw;
+    height: 1000px;
+    color: white;
+
+    background: black;
+    margin:100px 0px;
+    padding: 80px 0px;
+}
+
+
+.cardMain1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cardMain2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cardMain1 div{
+margin-bottom: 15px;
+}
+.cardMain2 div{
+    margin-bottom: 15px;
+    }
+
+
+
+    .Footermain{
+        display: flex;
+        justify-content: space-evenly;
+        height: 300px;
+        
+    }
+
+    .Footermain div{
+        margin-top: 10px;
+        cursor: pointer;
+    }
